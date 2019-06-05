@@ -1,0 +1,12 @@
+{
+  "name": "webpack-4-demo",
+  "version": "1.0.0",
+  "description": "webpack demo from the website",
+  "private": true,
+  "author": "jp",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.2"
+  }
+}
