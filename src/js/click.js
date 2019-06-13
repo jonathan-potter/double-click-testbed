@@ -1,6 +1,7 @@
 export default class Click {
-  constructor({ position, time }) {
-    this.position = position
+  constructor({ x, y, time }) {
+    this.x = x
+    this.y = y
     this.time = time
   }
 }
