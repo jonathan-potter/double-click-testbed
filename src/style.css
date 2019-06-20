@@ -1,4 +1,5 @@
-.hello {
-  color: red;
-  background: url('./icon.png');
+html, body, canvas {
+  padding: 0;
+  border: 0;
+  margin: 0;
 }
